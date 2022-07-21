@@ -34,6 +34,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fernandogs07&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogs07&hide=TeX&layout=compact)
 
-<p>![visitors](https://visitor-badge.laobi.icu/badge?page_id=fernandogs07.fernandogs07)</p>
+
 
 
