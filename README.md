@@ -2,7 +2,7 @@
 
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Fernando</h1>
-<p align = "justify">Profissional de TI, atualmente estudante de programação.</p>
+<p align = "justify">Profissional de TI e atualmente estudante de programação.</p>
 
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
