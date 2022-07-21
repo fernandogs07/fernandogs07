@@ -1,4 +1,4 @@
-### <p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
+### <p align="left"><img src="https://komarev.com/ghpvc/?username=fernandogs07" alt="dexternatan" /></p>
 
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Fernando</h1>
